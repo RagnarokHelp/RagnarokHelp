@@ -2,7 +2,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvoDfDbp8ybfEi-OBnv0UYQ)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/SoulEatt)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ggJxPAMJkt)
-[![SoulEat GitHub stats](https://github-readme-stats.vercel.app/api?username=RagnarokHelp&show_icons=true&theme=dracula)
+![SoulEat GitHub stats](https://github-readme-stats.vercel.app/api?username=RagnarokHelp&show_icons=true&theme=dracula)
 ## Bugs do dia dia...
 <div style="display: inline_bloc"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
